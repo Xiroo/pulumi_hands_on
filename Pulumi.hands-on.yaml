@@ -1,0 +1,3 @@
+config:
+  kubernetes:context: rancher-desktop
+encryptionsalt: v1:82egC9gjEVQ=:v1:i5xH/5vWLm1ejQjH:Z9HH2e3G+uvtHKSc/uTvwKDC0vgldg==
